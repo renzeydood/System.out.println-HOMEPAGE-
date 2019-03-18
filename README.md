@@ -1,5 +1,5 @@
 # System.out.println-HOMEPAGE-
-Homepage
+My GitHub Homepage. =) Because even my GitHub account needed to be Marie Kondo'd
 
 ## Introduction
 Firstly, if you've somehow got here, I'd like to say thanks! =) There's more to say but I'll update when I'm free. (Still a student. LOL.)
